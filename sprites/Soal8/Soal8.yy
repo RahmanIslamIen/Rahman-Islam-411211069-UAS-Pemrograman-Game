@@ -4,7 +4,7 @@
   "bboxMode":0,
   "bbox_bottom":240,
   "bbox_left":42,
-  "bbox_right":3979,
+  "bbox_right":2779,
   "bbox_top":58,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"3fcb3416-1f7f-41f6-8edb-9c91d81c029e","name":"3fcb3416-1f7f-41f6-8edb-9c91d81c029e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"9ae738c7-f830-4f57-8d34-591af734e976","name":"9ae738c7-f830-4f57-8d34-591af734e976","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":422,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"7a7c64cb-f379-4273-965c-4589e44d28c6","blendMode":0,"displayName":"default","isLocked":false,"name":"7a7c64cb-f379-4273-965c-4589e44d28c6","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"7c7cde6a-aec2-4450-89d9-fec37e7910ab","blendMode":0,"displayName":"default","isLocked":false,"name":"7c7cde6a-aec2-4450-89d9-fec37e7910ab","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Soal8",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3fcb3416-1f7f-41f6-8edb-9c91d81c029e","path":"sprites/Soal8/Soal8.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d87d2eb4-86c2-45d5-82e4-662c1145f957","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9ae738c7-f830-4f57-8d34-591af734e976","path":"sprites/Soal8/Soal8.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"3120bc24-27b5-4f8b-aad0-89d0883137bd","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":4434,
+  "width":3116,
 }

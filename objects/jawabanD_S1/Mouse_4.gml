@@ -5,10 +5,9 @@
 /// @DnDSaveInfo : "soundid" "Sound_Jawaban_benar"
 audio_play_sound(Sound_Jawaban_benar, 0, 0, 1.0, undefined, 1.0);
 
-/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
-/// @DnDHash : 7F333928
-/// @DnDArgument : "code" "/// @description Execute Code$(13_10)show_message("Jawaban kamu benar!!!");$(13_10)room_goto(PermainanQuiz2);"
-/// @description Execute Code
-show_message("Jawaban kamu benar!!!");
+/// @DnDHash : 689F9F5B
+/// @DnDArgument : "room" "PermainanQuiz2"
+/// @DnDSaveInfo : "room" "PermainanQuiz2"
 room_goto(PermainanQuiz2);

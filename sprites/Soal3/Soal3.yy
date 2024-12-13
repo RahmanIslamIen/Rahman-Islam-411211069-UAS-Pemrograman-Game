@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"9d27edd3-03a3-43c8-96bb-7f3d944af106","name":"9d27edd3-03a3-43c8-96bb-7f3d944af106","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"69f4db1e-7910-4bbf-ab26-a331f26da9c7","name":"69f4db1e-7910-4bbf-ab26-a331f26da9c7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":182,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"e061398c-32ab-4f8d-99f2-dcd674476318","blendMode":0,"displayName":"default","isLocked":false,"name":"e061398c-32ab-4f8d-99f2-dcd674476318","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"19490328-5d8f-41f7-bca2-3006497b8bba","blendMode":0,"displayName":"default","isLocked":false,"name":"19490328-5d8f-41f7-bca2-3006497b8bba","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Soal3",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9d27edd3-03a3-43c8-96bb-7f3d944af106","path":"sprites/Soal3/Soal3.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"06870033-a25d-4ddf-9527-40313cd5504c","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"69f4db1e-7910-4bbf-ab26-a331f26da9c7","path":"sprites/Soal3/Soal3.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"bade1e86-e686-46be-a326-fba7f6638086","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
